@@ -1,4 +1,4 @@
-Remember to create virtual env
+Remember to create virtual env and import reqs...
 ```
 pip freeze > requirements.txt
 pip install -r requirements.txt
